@@ -21,6 +21,10 @@ new VenoBox({
   selector: ".my-link",
   spinner: 'plane',
   border: '0',
+  numeration: 'true',
+  infinigall: 'true',
+  sharp: 'true',
+  navTouch: 'true',
   
 });
 // venobox end
